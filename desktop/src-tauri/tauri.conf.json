@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "Buzz",
+  "productName": "Buzz Wakanda",
   "version": "0.5.30",
   "identifier": "xyz.block.buzz.app",
   "build": {
@@ -16,7 +16,7 @@
   "app": {
     "windows": [
       {
-        "title": "Buzz",
+        "title": "Buzz Wakanda",
         "width": 900,
         "height": 650,
         "maximized": true,
